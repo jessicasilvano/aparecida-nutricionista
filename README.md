@@ -1,2 +1,2 @@
-# aparecida-nutricionista
-site feito usando HTML, CSS e Javascript
+# Aparecida Nutricionista
+site feito usando HTML, CSS e Javascript. 
