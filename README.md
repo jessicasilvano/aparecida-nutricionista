@@ -6,7 +6,6 @@
 ![Badge](https://img.shields.io/github/languages/top/jessicasilvano/aparecida-nutricionista)
 
 
-
 ## 📋 Description
 ### What is it?
 This is a customer registration site of a nutritionist made during the course about Javascript from Alura.
@@ -14,10 +13,15 @@ This is a customer registration site of a nutritionist made during the course ab
 ### What does it?
 - Home page with customer registration
 - Table with the registered customers
+- The button 'Buscar Paciente' makes an API request using AJAX
 
 ## 💻 Deploy
 - [Deploy](https://jessicasilvano.github.io/aparecida-nutricionista/)
 - [Code](https://github.com/jessicasilvano/aparecida-nutricionista/blob/master/index.html)
+
+## 🖼️ Result
+
+![](./screenshot/screenshot.png)
 
 Copyright©️ 2020 - Jéssica Silvano
 
