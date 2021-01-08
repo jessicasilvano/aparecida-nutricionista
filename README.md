@@ -13,6 +13,7 @@ This is a customer registration site of a nutritionist made during the course ab
 ### What does it?
 - Home page with customer registration
 - Table with the registered customers
+- Deleting the customer by double clicking on the line
 - The button 'Buscar Paciente' makes an API request using AJAX
 
 ## 💻 Deploy
